@@ -1,3 +1,74 @@
 {
-  "usuarios": []
+  "vidriosCrudo": [
+    { "id": 1, "nombre": "4mm", "valor": 48600 },
+    { "id": 2, "nombre": "5mm", "valor": 68600 }
+  ],
+  "valoresTemplado": [
+    { "id": 1, "nombre": "6mm", "valor": 131900 },
+    { "id": 2, "nombre": "8mm", "valor": 174300 },
+    { "id": 3, "nombre": "10mm", "valor": 221500 }
+  ],
+  "valoresLaminadoCrudo": [
+    { "id": 1, "nombre": "3+3mm", "valor": 131900 },
+    { "id": 2, "nombre": "4+4mm", "valor": 174300 }
+  ],
+  "valoresLaminadoTemplado": [
+    { "id": 1, "nombre": "4+4mm", "valor": 430600 },
+    { "id": 2, "nombre": "5+5mm", "valor": 650300 }
+  ],
+  "chapas": [
+    { "id": 1, "nombre": "ChapaSencilla", "valor": 156700 },
+    { "id": 2, "nombre": "ChapaDeSeguridadAlum", "valor": 191400 },
+  { "id": 3, "nombre": "ChapaDeSeguridadAcero", "valor": 254300 }
+  ],
+  "pasadores": [
+    { "id": 1, "nombre": "pasadorSencillo", "valor": 44600 },
+    { "id": 2, "nombre": "pasadorDeSobrePoner", "valor": 65100 }
+  ],
+  "perfiles": [
+    { "id": 1, "nombre": "burbuja", "valor": 10000 },
+    { "id": 2, "nombre": "burbujaImantado", "valor": 25000 },
+    { "id": 3, "nombre": "F", "valor": 20000 },
+    { "id": 4, "nombre": "insonoro", "valor": 40000 },
+    { "id": 5, "nombre": "monumental", "valor": 45000 }
+  ],
+  "manijas": [
+    { "id": 1, "nombre": "40cmAluminio", "valor": 49500 },
+    { "id": 2, "nombre": "40cmAcero", "valor": 59500 },
+    { "id": 3, "nombre": "60cmAluminio", "valor": 69500 },
+    { "id": 4, "nombre": "60cmAcero", "valor": 79500 },
+    { "id": 5, "nombre": "1mAcero", "valor": 120000 }
+  ],
+  "bisagraHidraulica": [
+    { "id": 1, "nombre": "estandar", "valor": 441200 },
+    { "id": 2, "nombre": "premium", "valor": 750000 }
+   ],
+  "chapetas": [
+    { "id": 1, "nombre": "chapetasAluminio", "valor": 59800 },
+    { "id": 2, "nombre": "chapetasAcero", "valor": 69800 },
+    { "id": 3, "nombre": "medias", "valor": 40000 }
+   ],
+  "puntosFijos": [
+    { "id": 1, "nombre": "dilatadores", "valor": 15000 },
+    { "id": 2, "nombre": "pieDeAmigos", "valor": 21900 },
+    { "id": 3, "nombre": "pieDeAmigosLargos", "valor": 40000 }
+  ],
+  "poste": [
+    { "id": 1, "nombre": "posteGiro", "valor": 188700 },
+    { "id": 2, "nombre": "posteFijo", "valor": 131800 }
+  ],
+  "kits": [
+    { "id": 1, "nombre": "-2mCorredizoEconomico", "valor": 151300 },
+    { "id": 2, "nombre": "-2mLujo", "valor": 351900 },
+    { "id": 3, "nombre": "batiente", "valor": 128300 },
+    { "id": 4, "nombre": "corredizoMediano", "valor": 346300 },
+     { "id": 5, "nombre": "corredizoPesado", "valor": 246500 },
+     { "id": 6, "nombre": "plegable", "valor": 131800 }
+    ],
+  "sistemaAutomatico": [
+    { "id": 1, "nombre": "2metros", "valor": 5000000 },
+    { "id": 2, "nombre": "3metros", "valor": 7000000 },
+    { "id": 3, "nombre": "4metros", "valor": 9000000 },
+    { "id": 4, "nombre": "6metros", "valor": 11000000 }
+   ]    
 }
