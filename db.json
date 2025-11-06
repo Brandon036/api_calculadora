@@ -1,20 +1,14 @@
 {
-  "vidriosCrudo": [
-    { "id": 1, "nombre": "4mm", "valor": 48600 },
-    { "id": 2, "nombre": "5mm", "valor": 68600 }
-  ],
-  "valoresTemplado": [
-    { "id": 1, "nombre": "6mm", "valor": 131900 },
-    { "id": 2, "nombre": "8mm", "valor": 174300 },
-    { "id": 3, "nombre": "10mm", "valor": 221500 }
-  ],
-  "valoresLaminadoCrudo": [
-    { "id": 1, "nombre": "3+3mm", "valor": 131900 },
-    { "id": 2, "nombre": "4+4mm", "valor": 174300 }
-  ],
-  "valoresLaminadoTemplado": [
-    { "id": 1, "nombre": "4+4mm", "valor": 430600 },
-    { "id": 2, "nombre": "5+5mm", "valor": 650300 }
+  "vidrios": [
+    { "id": 1, "nombre": "Crudo4mm", "valor": 48600 },
+    { "id": 2, "nombre": "Crudo5mm", "valor": 68600 },
+    { "id": 3, "nombre": "Templado6mm", "valor": 131900 },
+    { "id": 4, "nombre": "Templado8mm", "valor": 174300 },
+    { "id": 5, "nombre": "Templado10mm", "valor": 221500 },
+    { "id": 6, "nombre": "LaminadoCrudo3+3mm", "valor": 131900 },
+    { "id": 7, "nombre": "LaminadoCrudo4+4mm", "valor": 174300 },
+    { "id": 8, "nombre": "LaminadoTemplado4+4mm", "valor": 430600 },
+    { "id": 9, "nombre": "LaminadoTemplado5+5mm", "valor": 650300 }
   ],
   "chapas": [
     { "id": 1, "nombre": "ChapaSencilla", "valor": 156700 },
