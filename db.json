@@ -64,5 +64,15 @@
     { "id": 2, "nombre": "3metros", "valor": 7000000 },
     { "id": 3, "nombre": "4metros", "valor": 9000000 },
     { "id": 4, "nombre": "6metros", "valor": 11000000 }
-   ]    
+   ],
+   "instalacion": [
+    { "id": 1, "nombre": "BajoM2", "valor": 50000 },
+    { "id": 2, "nombre": "NORMALM2", "valor": 85000 },
+    { "id": 3, "nombre": "PESADOM2", "valor": 100000 },
+    { "id": 4, "nombre": "SuperPesadoM2", "valor": 200000 },
+    { "id": 5, "nombre": "MASPesadoM2", "valor": 250000 },
+    { "id": 6, "nombre": "SuperPesadoM2", "valor": 300000 }
+
+
+   ]        
 }
